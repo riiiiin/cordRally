@@ -9,6 +9,7 @@ public class RallyCar extends Car {
 	IObject gasStations[];
 	ICar opponents[];
 	
+	
 	int waitBack = 0;
 	int nextNo, prevNo;
 	boolean gasFlag = false;
